@@ -5,14 +5,15 @@ namespace project_gn.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<project_gn.Context.DataContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<project_gn.Models.ProjectGn>
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
+            AutomaticMigrationDataLossAllowed = true;
         }
 
-        protected override void Seed(project_gn.Context.DataContext context)
+        protected override void Seed(project_gn.Models.ProjectGn context)
         {
             //  This method will be called after migrating to the latest version.
 

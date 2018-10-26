@@ -6,14 +6,17 @@ namespace project_gn.Models
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    [Table("CompanySize")]
-    public class CompanySize
+    [Table("Customer")]
+    public partial class Customer
     {
         public int Id { get; set; }
 
-        [StringLength(30)]
-        public string Type { get; set; }
+        [Required]
+        [StringLength(100)]
+        public string Name { get; set; }
 
-        public virtual ICollection<Customer> Customer { get; set; }
+        public int id_company_size { get; set; }
+
+        public virtual CompanySize CompanySize { get; set; }
     }
 }

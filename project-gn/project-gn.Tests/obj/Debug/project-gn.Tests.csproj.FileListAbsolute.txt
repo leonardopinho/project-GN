@@ -42,3 +42,5 @@ C:\repos\project-GN\project-gn\project-gn.Tests\obj\Debug\project-gn.Tests.dll
 C:\repos\project-GN\project-gn\project-gn.Tests\obj\Debug\project-gn.Tests.pdb
 C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\EntityFramework.dll
 C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\EntityFramework.xml
+C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\EntityFramework.SqlServer.xml
