@@ -1,9 +1,6 @@
 namespace project_gn.Models
 {
-    using System;
     using System.Data.Entity;
-    using System.ComponentModel.DataAnnotations.Schema;
-    using System.Linq;
 
     public partial class ProjectGn : DbContext
     {
@@ -12,8 +9,8 @@ namespace project_gn.Models
         {
         }
 
-        public virtual DbSet<CompanySize> CompanySize { get; set; }
-        public virtual DbSet<Customer> Customer { get; set; }
+        public DbSet<CompanySize> CompanySize { get; set; }
+        public DbSet<Customer> Customer { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

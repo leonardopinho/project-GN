@@ -1,37 +1,26 @@
-﻿using project_gn.Models;
+﻿using project_gn.Repository;
+using project_gn.Models;
 using System.Collections.Generic;
-using System.Linq;
 using System.Web.Mvc;
 
 namespace project_gn.Controllers
 {
     public class HomeController : Controller
     {
+        private CompanySizeRepository companySizeRepository;
+
+        public HomeController() {
+            this.companySizeRepository = new CompanySizeRepository();
+        }
+
         public ActionResult Index()
         {
-            List<CompanySize> list = new List<CompanySize>();
-
-            using (var context = new ProjectGn())
-            {
-                var query = from g in context.CompanySize
-                            select new { companySize = g };
-
-                foreach (var res in query)
-                {
-                    CompanySize item = new CompanySize();
-                    item.Id = res.companySize.Id;
-                    item.Type = res.companySize.Type;
-
-                    list.Add(item);
-                }
-            }
-            return View(list);
+            return View(companySizeRepository.GetAll());
         }
 
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-
             return View();
         }
 

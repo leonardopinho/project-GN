@@ -1,0 +1,9 @@
+C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\b\project-gn.Tests\bin\Debug\ApplicationInsights.config
+C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\b\project-gn.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\b\project-gn.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\b\project-gn.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\b\project-gn.Tests\bin\Debug\project-gn.Tests.dll.config
+C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\b\project-gn.Tests\bin\Debug\project-gn.Tests.dll
+C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\i\project-gn.Tests\Debug\project-gn.Tests.csproj.CoreCompileInputs.cache
+C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\i\project-gn.Tests\Debug\project-gn.Tests.csproj.CopyComplete
+C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\i\project-gn.Tests\Debug\project-gn.Tests.dll

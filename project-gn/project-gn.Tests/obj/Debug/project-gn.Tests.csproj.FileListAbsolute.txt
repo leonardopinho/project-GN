@@ -5,6 +5,8 @@ C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\Microsoft.VisualStudio
 C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\project-gn.Tests.dll.config
 C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\project-gn.Tests.dll
 C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\project-gn.Tests.pdb
+C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\EntityFramework.dll
+C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\EntityFramework.SqlServer.dll
 C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
@@ -22,6 +24,8 @@ C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\System.Web.Http.WebHos
 C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\System.Net.Http.Formatting.dll
 C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\project-gn.pdb
 C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\project-gn.dll.config
+C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\EntityFramework.xml
+C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\EntityFramework.SqlServer.xml
 C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\Newtonsoft.Json.xml
@@ -40,7 +44,3 @@ C:\repos\project-GN\project-gn\project-gn.Tests\obj\Debug\project-gn.Tests.cspro
 C:\repos\project-GN\project-gn\project-gn.Tests\obj\Debug\project-gn.Tests.csproj.CopyComplete
 C:\repos\project-GN\project-gn\project-gn.Tests\obj\Debug\project-gn.Tests.dll
 C:\repos\project-GN\project-gn\project-gn.Tests\obj\Debug\project-gn.Tests.pdb
-C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\EntityFramework.dll
-C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\EntityFramework.xml
-C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\EntityFramework.SqlServer.dll
-C:\repos\project-GN\project-gn\project-gn.Tests\bin\Debug\EntityFramework.SqlServer.xml
