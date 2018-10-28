@@ -7,15 +7,16 @@ namespace project_gn.Controllers
 {
     public class HomeController : Controller
     {
-        private CompanySizeRepository companySizeRepository;
+        private CustomerRepository customerRepository;
 
         public HomeController() {
-            this.companySizeRepository = new CompanySizeRepository();
+            this.customerRepository = new CustomerRepository();
         }
 
         public ActionResult Index()
         {
-            return View(companySizeRepository.GetAll());
+            ViewBag.Title = "Home";
+            return View(customerRepository.GetAll());
         }
 
         public ActionResult About()

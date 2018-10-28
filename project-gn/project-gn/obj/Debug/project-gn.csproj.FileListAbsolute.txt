@@ -80,3 +80,4 @@ C:\repos\project-GN\project-gn\project-gn\obj\Debug\project-gn.csproj.CoreCompil
 C:\repos\project-GN\project-gn\project-gn\obj\Debug\project-gn.csproj.CopyComplete
 C:\repos\project-GN\project-gn\project-gn\obj\Debug\project-gn.dll
 C:\repos\project-GN\project-gn\project-gn\obj\Debug\project-gn.pdb
+C:\repos\project-GN\project-gn\project-gn\obj\Debug\project-gn.csprojAssemblyReference.cache

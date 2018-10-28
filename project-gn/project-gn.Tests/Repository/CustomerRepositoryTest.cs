@@ -27,6 +27,7 @@ namespace project_gn.Tests.Repository
             Customer result = customer.GetById(1);
             Trace.WriteLine(result.Name);
 
+            // Assert
             Assert.AreEqual("Roberto da Silva", result.Name);
             Assert.IsNotNull(result);
         }

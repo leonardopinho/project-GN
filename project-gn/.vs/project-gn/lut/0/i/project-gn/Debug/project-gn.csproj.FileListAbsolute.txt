@@ -1,9 +1,10 @@
 C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\b\project-gn\bin\ApplicationInsights.config
 C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\b\project-gn\bin\project-gn.dll.config
 C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\b\project-gn\bin\project-gn.dll
-C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\i\project-gn\Debug\project-gn.csprojAssemblyReference.cache
+C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\b\project-gn\bin\project-gn.pdb
 C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\i\project-gn\Debug\project_gn.Migrations.addDataTable.resources
 C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\i\project-gn\Debug\project-gn.csproj.GenerateResource.cache
 C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\i\project-gn\Debug\project-gn.csproj.CoreCompileInputs.cache
 C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\i\project-gn\Debug\project-gn.csproj.CopyComplete
 C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\i\project-gn\Debug\project-gn.dll
+C:\repos\project-GN\project-gn\.vs\project-gn\lut\0\i\project-gn\Debug\project-gn.pdb

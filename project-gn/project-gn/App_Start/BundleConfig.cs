@@ -25,6 +25,11 @@ namespace project_gn
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
+
+            bundles.Add(new StyleBundle("~/bundles/datatables").Include(
+                      "~/Content/datatables/dataTables.bootstrap4.css",
+                      "~/Content/datatables/jquery.dataTables.js",
+                      "~/Content/datatables/dataTables.bootstrap4.js"));
         }
     }
 }
