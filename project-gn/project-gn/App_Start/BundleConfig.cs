@@ -30,6 +30,9 @@ namespace project_gn
                       "~/Content/datatables/dataTables.bootstrap4.css",
                       "~/Content/datatables/jquery.dataTables.js",
                       "~/Content/datatables/dataTables.bootstrap4.js"));
+
+            bundles.Add(new ScriptBundle("~/bundles/main").Include(
+                       "~/Scripts/Main.js"));
         }
     }
 }

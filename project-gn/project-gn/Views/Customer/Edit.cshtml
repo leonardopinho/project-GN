@@ -1,0 +1,31 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model project_gn.Models.Customer
+<div class="col-md-12" style="padding-top: 30px">
+
+    @using (Html.BeginForm("Update", "Customer", FormMethod.Post))
+    {
+
+        @Html.TextBoxFor(m => m.Id, new { @class = "form-control", type = "hidden" })
+
+        <div class="col-sm-12">
+            <div class="form-group">
+                @Html.LabelFor(m => m.id_company_size, "Porte da empresa")
+                @Html.DropDownListFor(x => x.id_company_size, new SelectList(ViewBag.CompanySizeList, "Id", "Type"), new { @class = "form-control", required = "required" })
+            </div>
+        </div>
+
+        <div class="col-sm-12">
+            <div class="form-group">
+                @Html.LabelFor(m => m.Name, "Nome")
+                @Html.TextBoxFor(m => m.Name, new { @class = "form-control", required = "required" })
+                @Html.ValidationMessageFor(m => m.Name)
+
+                <input type="submit" value="Cadastrar" class="btn btn-primary pull-right" />
+            </div>
+        </div>
+
+    }
+</div>

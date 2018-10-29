@@ -16,6 +16,10 @@ namespace project_gn.Controllers
         public ActionResult Index()
         {
             ViewBag.Title = "Home";
+
+            var msg = TempData["Message"] as string;
+            ViewBag.Message = msg;
+
             return View(customerRepository.GetAll());
         }
 

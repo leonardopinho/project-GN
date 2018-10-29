@@ -9,17 +9,18 @@
     <IISExpressUseClassicPipelineMode />
     <UseGlobalApplicationHostFile />
     <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
-    <Controller_SelectedScaffolderID>MvcControllerWithActionsScaffolder</Controller_SelectedScaffolderID>
+    <Controller_SelectedScaffolderID>ApiControllerWithContextScaffolder</Controller_SelectedScaffolderID>
     <Controller_SelectedScaffolderCategoryPath>root/Controller</Controller_SelectedScaffolderCategoryPath>
     <WebStackScaffolding_ControllerDialogWidth>600</WebStackScaffolding_ControllerDialogWidth>
     <WebStackScaffolding_IsLayoutPageSelected>False</WebStackScaffolding_IsLayoutPageSelected>
     <WebStackScaffolding_IsPartialViewSelected>False</WebStackScaffolding_IsPartialViewSelected>
-    <WebStackScaffolding_IsReferencingScriptLibrariesSelected>True</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
+    <WebStackScaffolding_IsReferencingScriptLibrariesSelected>False</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile />
-    <WebStackScaffolding_DbContextTypeFullName>project_gn.Context.DataContext</WebStackScaffolding_DbContextTypeFullName>
+    <WebStackScaffolding_DbContextTypeFullName>project_gn.Models.ProjectGn</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsViewGenerationSelected>False</WebStackScaffolding_IsViewGenerationSelected>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <ProjectView>ProjectFiles</ProjectView>
+    <WebStackScaffolding_ViewDialogWidth>600</WebStackScaffolding_ViewDialogWidth>
   </PropertyGroup>
   <PropertyGroup>
     <ReferencePath>C:\repos\project-GN\project-gn\project-gn\App_Code\</ReferencePath>
